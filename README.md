@@ -2,7 +2,9 @@
 
 Hello! 
 
-My software development experience over the past few years is currently lives in private GitLab repositories on private NASA servers. The most significant projects I've worked on are slowly but surely becoming open-sourced, but the way GitHub handles authorship to project contributions is one-sided: my GitHub identity appears on these projects, but my profile itself will not display these contributions unless I'm a current member of the organization that project belongs to. Because of that, I'll be maintaining a list of any open-sourced NASA projects I've worked on here, for anyone who would like quick access to them. 
+Most of my professional software development work over the past few years has been in private GitLab repositories and on private NASA systems. As some of the projects I've contributed to are gradually being open-sourced, I'm maintaining this repository as a convenient index of publicly available NASA projects I've worked on.
+
+Because GitHub does not always display contributions to an organization's repositories on an individual's profile after they leave that organization, this list provides a more complete picture of my public contributions.
 
 # NASA Projects
 - [Artemis EVA GIS](https://github.com/nasa/aegis)
